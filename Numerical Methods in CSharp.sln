@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundingErrors", "RoundingE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{3A25D74A-23FE-451A-A50B-3136ED003E00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootFinding", "RootFinding\RootFinding.csproj", "{7E46CD8B-810D-42CC-9AB7-24D59ECB1A1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3A25D74A-23FE-451A-A50B-3136ED003E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A25D74A-23FE-451A-A50B-3136ED003E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A25D74A-23FE-451A-A50B-3136ED003E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E46CD8B-810D-42CC-9AB7-24D59ECB1A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E46CD8B-810D-42CC-9AB7-24D59ECB1A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E46CD8B-810D-42CC-9AB7-24D59ECB1A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E46CD8B-810D-42CC-9AB7-24D59ECB1A1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
