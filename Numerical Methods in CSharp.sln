@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootFinding", "RootFinding\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integration", "Integration\Integration.csproj", "{3BFB937F-E6BB-4EBE-9CEF-98D4EB389FA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Differential Equations", "Differential Equations\Differential Equations.csproj", "{7A86BDA2-CB92-456F-8AB7-721681213971}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3BFB937F-E6BB-4EBE-9CEF-98D4EB389FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BFB937F-E6BB-4EBE-9CEF-98D4EB389FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BFB937F-E6BB-4EBE-9CEF-98D4EB389FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A86BDA2-CB92-456F-8AB7-721681213971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A86BDA2-CB92-456F-8AB7-721681213971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A86BDA2-CB92-456F-8AB7-721681213971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A86BDA2-CB92-456F-8AB7-721681213971}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
